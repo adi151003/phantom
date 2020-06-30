@@ -34,20 +34,14 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
-
+Hey there! My name is Eudora - I'm here to help you manage your groups!
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
 [THIS LEGEND](tg://user?id={}).
 
 HIT HELP FOR COMMANDS  /help
-
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
-
+Don't Forget To CheckOut [CC-CHECKER](http://t.me/ARJUNCC_CHKBOT) 
+Want to add me to your group? Click here! [Click Here](http://t.me/EudorasBot?startgroup=true)
 """
 
 HELP_STRINGS = """
