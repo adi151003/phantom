@@ -4,9 +4,6 @@
 
 
  
-GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
-
-
 
 
 [![phantom](https://telegra.ph/file/72b6a2032bd19642ff759.jpg)]
@@ -22,8 +19,8 @@ GENERATED FROM [THIS REPOSITORY](https://github.com/AnimeKaizoku/SaitamaRobot)
 
 
 ## Credits
-The bot is based on the original work done by [PaulSonOfLars](https://github.com/PaulSonOfLars)
-This repo was just revamped to suit an Anime-centric community. All original credits go to Paul and his dedication, Without his efforts, this fork would not have been possible!
+The bot is based on the original work done by [ARJUN](https://github.com/IamArjun078)
+This repo was just revamped to suit an Anime-centric community. All original credits go to Arjun and his dedication, Without his efforts, this fork would not have been possible!
 
 
 
