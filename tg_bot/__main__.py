@@ -37,7 +37,7 @@ PM_START_TEXT = """
 Hey there! My name is Eudora - I'm here to help you manage your groups!
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+[THIS LEGEND](tg://user?id=711026243).
 
 HIT HELP FOR COMMANDS  /help
 Don't Forget To CheckOut [CC-CHECKER](http://t.me/ARJUNCC_CHKBOT) 
