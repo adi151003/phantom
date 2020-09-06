@@ -34,14 +34,14 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-Hey there! My name is Eudora - I'm here to help you manage your groups!
+Hey there! My name is HERMOINE GRANGER - I'm here to help you manage your groups!
 I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id=711026243).
+[THIS LEGEND](tg://user?id=698649758).
 
 HIT HELP FOR COMMANDS  /help
-Don't Forget To CheckOut [CC-CHECKER](http://t.me/ARJUNCC_CHKBOT) 
-Want to add me to your group? Click here! [Click Here](http://t.me/EudorasBot?startgroup=true)
+Don't Forget To CheckOut [MY ALL CHANNELS](http://t.me/wolverine1510com) 
+Want to add me to your group? Click here! [Click Here](http://t.me/hermoinegranger_bot?startgroup=true)
 """
 
 HELP_STRINGS = """
