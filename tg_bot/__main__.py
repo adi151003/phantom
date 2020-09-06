@@ -155,7 +155,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
 
     else:
-        update.effective_message.reply_text("Yo, whadup?🤧")
+        update.effective_message.reply_text("Yo, whasup?🤧😎😏")
 
 
 def send_start(bot, update):
