@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "9.5"
+            "version": "10"
          },
          "plan": "heroku-postgresql"
       }
@@ -115,7 +115,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/72b6a2032bd19642ff759.jpg",
-   "name": "phantom",
-   "repository": "https://github.com/leobrownlee/phantom"
+   "logo": "https://telegra.ph/file/61038523e25b901faae5e.jpg",
+   "name": "HERMOINE GRANGER",
+   "repository": "https://t.me/logangiveaways/"
 }
